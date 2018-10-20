@@ -1,0 +1,17 @@
+body{
+  background-image: url("https://thewallpaper.co/wp-content/uploads/2016/03/enchanted-village-on-the-forest-trees-wide-high-definition-wallpaper-for-desktop-background-images-iphone-background-images-cool-abstract-1728x1080.jpg");
+  color:white;
+  text-align:center;
+  font-family:georgia;
+  margin-top:12%;
+}
+img{
+  height: 300px;
+  width:100%;
+
+}
+.sec1{
+  margin: 0 auto;
+  width: 300px;
+
+}
