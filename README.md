@@ -1,22 +1,15 @@
-# 🎠 Week05 Bootcamp2018c Project: Carousel
+# My Image Carousel
+For my image carousel I made a slideshow with 7 photos that were able to loop around by clicking the previous or next button and also works by clicking the left and right arrow keys.
 
-### Goal: Build a Simple Image Carousel
+First I created an HTML for the page. 
+Then I named my document and proceeded by adding the images I wanted to be displayed.
+Next I added the onclick function to allow the buttons to reacted when previous or next were clicked on.
+I also set if conditions so the images would loop after the last image was displayed and for when the arrow keys were pressed. Finally I styled the carousel using CSS.
 
-### How to submit your code for review:
+# Tech Used:
+HMTL, CSS, and Javascript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# Optimizations
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Lessons Learned:
+For this project I learned how make a loop with images as well as how to impliment the keypress function 
